@@ -1,0 +1,5 @@
+
+fernando|1|tecnologias|9.0
+maria|3|medicina|10.0
+pedro|8|software|10.0
+roberto|10|recursos|9.0

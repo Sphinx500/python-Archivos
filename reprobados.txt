@@ -1,0 +1,2 @@
+alex|2|arquitectura|7.0
+ana|4|arquitectura|7.0

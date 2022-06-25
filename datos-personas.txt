@@ -1,0 +1,8 @@
+fernando|22|fer@gmail.com|43658523
+alex|20|alex@gmail.com|2356985
+maria|26|maria@gmail.com|76987546
+liz|22|liz@gmail.com|54657832
+alexis|36|alexis@gmail.com|4356547
+gerardo|21|gerardo@gmail.com|567584353
+vanessa|21|vane@gmail.com|3464785
+sandra|32|sandy@gmail.com|3245376
